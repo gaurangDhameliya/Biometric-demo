@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@simplewebauthn/server": "^13.2.2",
+    "cors": "^2.8.6",
     "express": "^5.2.1",
     "express-session": "^1.19.0"
   }
