@@ -119,7 +119,7 @@ app.post("/register/options", async(req, res) => {
     /**
      * MUST match your domain in production
      */
-    rpID: "7cxjtdbw-4000.inc1.devtunnels.ms",
+    rpID: "biometric-demo.onrender.com",
     userID: Buffer.from(user.id),
     userName: user.username,
 
